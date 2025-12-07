@@ -98,7 +98,7 @@ From **Tanta, Egypt 🇪🇬**
 
 ## 📊 GitHub Stats  
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/mostafamayad">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
 </a>
 <a href="https://github.com/YOUR_USERNAME">
@@ -109,8 +109,8 @@ From **Tanta, Egypt 🇪🇬**
 
 ## 🌐 Connect With Me  
 
-- GitHub: https://github.com/YOUR_USERNAME  
-- LinkedIn: (Add it later)  
+- GitHub: https://github.com/mostafamayad  
+- LinkedIn: https://www.linkedin.com/in/officailmostafaayad?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 
