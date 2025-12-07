@@ -1,4 +1,5 @@
-# Hello, 👋  <img src="[https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif](https://drive.google.com/file/d/1Pfv2ozjheGp-SZeRdKNukdLBRLaJFXNE/view?usp=sharing)" width="10px" height="10px" />
+![Header](https://github.com/mostafamayad/mostafamayad/blob/main/cover%20github.png "Header")
+# Hello, 👋  
 
 My name is **Mostafa Mohamed Ayad**  
 I'm a **Communication & Computer Engineer | Network & IT Enthusiast | Automation Beginner**  
