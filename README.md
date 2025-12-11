@@ -12,7 +12,7 @@ From **Tanta, Egypt 🇪🇬**
 
 ## 👨‍💻 About Me  
 
-- Communication & Computer Engineering graduate (Class of 2023)  
+- Communication & Computer Engineering graduate (Class of 2027)  
 - Interested in **Networking, IT Support, and Automation**  
 - Basic experience in **Python & C++**  
 - Strong skills in **Video Editing & Graphic Design**  
